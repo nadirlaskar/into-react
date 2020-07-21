@@ -1,17 +1,12 @@
+// Use when JSX is converted to React.createElement
+// on transpilation of react code to normal javascript.
 import React from 'react';
+// Used to manupulate actual DOM of website
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
-
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// Import our component, from the file App.js
+// we don't need to write the extension .js for js files
+import App from './App'; 
+// Telling react to inject the app into the root element of 
+// the actual DOM, check the index.html file to find a div
+// with id #root.
+ReactDOM.render(<App/>,document.getElementById('root'));
