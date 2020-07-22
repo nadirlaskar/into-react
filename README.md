@@ -22,5 +22,17 @@ Execute the following command in a terminal
 
 ## Below are the resource for reference
 
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript
-2. https://reactjs.org/tutorial/tutorial.html
+1. **JS** https://developer.mozilla.org/en-US/docs/Web/JavaScript
+      * __Function__ https://developer.mozilla.org/en-US/docs/Glossary/Function & https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
+      * __Class__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class
+      * __Bind__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+      * __this__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+      * __Array.map__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+      * __Array.filter__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+      * __Destructuring_assignment__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+      * __import__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+      * __export__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+2. **ReactJS** https://reactjs.org/tutorial/tutorial.html
+      * __State__ https://reactjs.org/docs/hooks-state.html#declaring-a-state-variable
+      * __React Components__ https://reactjs.org/docs/components-and-props.html#function-and-class-components
+      * ___Proptypes__ https://reactjs.org/docs/typechecking-with-proptypes.html#gatsby-focus-wrapper
