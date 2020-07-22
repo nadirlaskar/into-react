@@ -23,7 +23,8 @@ Execute the following command in a terminal
 ## Below are the resource for reference
 
 1. **JS** https://developer.mozilla.org/en-US/docs/Web/JavaScript
-      * __Function__ https://developer.mozilla.org/en-US/docs/Glossary/Function & https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
+      * __Function__ https://developer.mozilla.org/en-US/docs/Glossary/Function 
+      * __Function as reference__ https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
       * __Class__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class
       * __Bind__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
       * __this__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
@@ -35,4 +36,4 @@ Execute the following command in a terminal
 2. **ReactJS** https://reactjs.org/tutorial/tutorial.html
       * __State__ https://reactjs.org/docs/hooks-state.html#declaring-a-state-variable
       * __React Components__ https://reactjs.org/docs/components-and-props.html#function-and-class-components
-      * ___Proptypes__ https://reactjs.org/docs/typechecking-with-proptypes.html#gatsby-focus-wrapper
+      * __Proptypes__ https://reactjs.org/docs/typechecking-with-proptypes.html#gatsby-focus-wrapper
